@@ -1,2 +1,2 @@
-# supernova-sbl-risk-model
+# supernova-SBL-risk-model
 Securities-Based Lending Risk Model-Supernova
